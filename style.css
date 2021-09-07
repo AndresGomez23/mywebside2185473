@@ -48,3 +48,24 @@ li a:hover {
 .papa{
     padding: 40px;
 }
+
+.papatiempo{
+    padding: 40px;
+}
+
+.clase-tiempo{
+    float: right;
+    width: 600px;
+    height: 300px;
+
+}
+
+.texto-tiempo{color: black;
+    text-align: left;
+    text-decoration: none;
+    width: 562px;
+    height: 348px;
+    float: right;
+    font-size: 22px;
+
+}
