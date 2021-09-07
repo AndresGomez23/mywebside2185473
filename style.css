@@ -69,3 +69,9 @@ li a:hover {
     font-size: 22px;
 
 }
+
+.videomedia{
+    width: 800px;
+    height: 450px;  
+    float: left;
+}
